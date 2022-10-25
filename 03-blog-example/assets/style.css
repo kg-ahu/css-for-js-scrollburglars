@@ -25,6 +25,7 @@ main {
   padding-top: 64px;
   isolation: isolate;
   max-width: 100%;
+  overflow-x: hidden;
 }
 
 article p,
